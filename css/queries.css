@@ -1,0 +1,15 @@
+@media (max-width: 26em) {
+  .product-box {
+    grid-template-columns: 1fr;
+    max-width: 34rem;
+  }
+
+  .img-box {
+    background-image: url("../images/image-product-mobile.jpg");
+    height: 23rem;
+  }
+
+  .product-desc-box {
+    padding: 2.4rem;
+  }
+}
