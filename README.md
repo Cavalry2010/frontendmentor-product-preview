@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-with-css-grid-and-flexbox-rNN9xIWMRt)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-with-css-grid-and-flexbox-rNN9xIWMRt)
 - Live Site URL: [Product Preview Card](https://product-card-alejandro.netlify.app)
 
 ## My process
